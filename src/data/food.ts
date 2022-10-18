@@ -20,7 +20,7 @@ export const FOOD_ITEMS: Array<FoodItem> = [
   },
   {
     name: "Pneu",
-    kcal: 130,
+    kcal: 140,
     imageUrl: Maki
   },
   {
